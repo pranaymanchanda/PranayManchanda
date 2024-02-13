@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranayManchanda
-- 👀 I’m interested in computer science. 
+- 👀 I’m interested in software engineering and full-stack development. 
 - 📫 IG: @pranay_m3
 
 <!---
